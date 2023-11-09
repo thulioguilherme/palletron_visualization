@@ -13,7 +13,10 @@
   <exec_depend>launch_ros</exec_depend>
   <exec_depend>nav2_common</exec_depend>
   <exec_depend>rviz2</exec_depend>
-  
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
   <export>
     <build_type>ament_cmake</build_type>
   </export>
